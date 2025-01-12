@@ -32,7 +32,8 @@ Ecommerce platform having new feature called “Buy Recipes.” Previously, user
    ```sql
    id: INT,
    cart_id: INT,
-   product_id: INT
+   product_id: INT,
+   recipe_id: INT
    ```
 
 3. **products**
